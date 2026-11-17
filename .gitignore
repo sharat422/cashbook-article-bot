@@ -9,7 +9,6 @@ logs/
 *.sqlite*
 
 # --- publish-to-GitHub exclusions ---
-*.md
 .env
 .env.*
 !.env.example
