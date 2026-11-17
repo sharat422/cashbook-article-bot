@@ -1,0 +1,87 @@
+[
+  {
+    "id": "guide_upi_unallocated",
+    "topic": "What to do when a retailer pays by UPI without saying which bill",
+    "notes_file": "notes/unallocated-upi-payment.md"
+  },
+  {
+    "id": "guide_dsr_cash",
+    "topic": "Closing the day: matching each DSR's cash to what was written down",
+    "notes_file": "notes/dsr-cash-collection.md"
+  },
+  {
+    "id": "guide_scheme_claim",
+    "topic": "Why a brand claim fails when the batch number was never recorded",
+    "notes_file": "notes/scheme-claim-batch-records.md"
+  },
+  {
+    "id": "guide_credit_limit",
+    "topic": "Check the retailer's credit limit at billing, not at month-end",
+    "notes_file": "notes/credit-limit-at-billing.md"
+  },
+  {
+    "id": "guide_no_overwrite",
+    "topic": "Why you should never overwrite a figure in the ledger",
+    "notes_file": "notes/never-overwrite-ledger.md"
+  },
+  {
+    "id": "guide_partial",
+    "topic": "How distributors can record partial customer payments: a fictional worked example",
+    "notes_file": "notes/partial-payments.md"
+  },
+  {
+    "id": "guide_returns",
+    "topic": "How to distinguish a customer payment from an accepted goods-return adjustment",
+    "notes_file": "notes/goods-returns.md"
+  },
+  {
+    "id": "guide_closing",
+    "topic": "A customer-ledger check before closing the day",
+    "notes_file": "notes/daily-close.md"
+  },
+  {
+    "id": "guide_reminder",
+    "topic": "Check the recorded balance before sending a customer reminder",
+    "notes_file": "notes/payment-reminders.md"
+  },
+  {
+    "id": "guide_receipt_review",
+    "topic": "Review receipt OCR details before recording an expense",
+    "notes_file": "notes/receipt-review.md"
+  },
+  {
+    "id": "guide_expense_categories",
+    "topic": "Use consistent descriptions when reviewing expense records",
+    "notes_file": "notes/expense-descriptions.md"
+  },
+  {
+    "id": "guide_recurring",
+    "topic": "Review recurring expenses without assuming each bill was paid",
+    "notes_file": "notes/recurring-expenses.md"
+  },
+  {
+    "id": "guide_voice_expense",
+    "topic": "Check an expense captured by voice before relying on it",
+    "notes_file": "notes/voice-expense-review.md"
+  },
+  {
+    "id": "guide_voice_queries",
+    "topic": "Check a spoken business query against the recorded period and entries",
+    "notes_file": "notes/voice-query-checks.md"
+  },
+  {
+    "id": "guide_customer_identity",
+    "topic": "Keep two similar customer names from being confused",
+    "notes_file": "notes/customer-identity.md"
+  },
+  {
+    "id": "guide_payment_evidence",
+    "topic": "Distinguish a claimed payment from a confirmed receipt",
+    "notes_file": "notes/payment-confirmation.md"
+  },
+  {
+    "id": "guide_report_review",
+    "topic": "Read a period expense report alongside its underlying records",
+    "notes_file": "notes/report-review.md"
+  }
+]

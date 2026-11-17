@@ -1,0 +1,25 @@
+{
+  "owner_verified": true,
+  "product_name": "Bolcash",
+  "audience": "Small agencies and distributors in India",
+  "release_status": "Pre-launch. Owner's planned release date: 20 November 2026. Do not claim the app is publicly available; the planned date is not proof of launch.",
+  "approved_features": [
+    "Record income and expenses.",
+    "Manage customer records.",
+    "Scan receipts, extract text using OCR and display the extracted receipt details for review.",
+    "Manage recurring expenses.",
+    "View reports based on recorded business data.",
+    "Use spoken input to add expenses.",
+    "Ask for business details using spoken queries."
+  ],
+  "marketing_url": "",
+  "limitations": [
+    "Do not claim automatic bank reconciliation, automatic UPI confirmation or guaranteed savings.",
+    "Add only features you have personally verified in your current build.",
+    "Do not invent pricing, store availability, customer counts or testimonials.",
+    "Voice input and receipt OCR assist entry and retrieval; users must review extracted details and financial entries. Do not claim no manual work, perfect recognition, or that every task is fully automatic.",
+    "No landing-page or waitlist URL is currently approved. Omit registration/download calls to action and do not substitute a configured or guessed URL.",
+    "Do not broaden the approved features into automatic bank feeds, goods-return support, tax filing, specific report formats, or support for all languages.",
+    "Reconfirm public availability with the owner after the planned release date before claiming the app has launched."
+  ]
+}

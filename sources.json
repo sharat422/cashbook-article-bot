@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Press Information Bureau",
+    "enabled": true,
+    "feed_url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1",
+    "hosts": ["pib.gov.in", "www.pib.gov.in"],
+    "full_text_allowed": false,
+    "permission_note": "Feed discovery/summary only. Review site terms and permitted reuse before enabling full-page extraction."
+  },
+  {
+    "name": "Reserve Bank of India",
+    "enabled": true,
+    "feed_url": "https://www.rbi.org.in/pressreleases_rss.xml",
+    "hosts": ["rbi.org.in", "www.rbi.org.in"],
+    "full_text_allowed": false,
+    "permission_note": "Feed discovery/summary only. Bot stops when access rules cannot be checked. Verify live feed access yourself."
+  },
+  {
+    "name": "GOV.UK India news",
+    "enabled": true,
+    "feed_url": "https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=india",
+    "hosts": ["www.gov.uk"],
+    "full_text_allowed": true,
+    "permission_note": "Reviewed 6 November 2026: GOV.UK terms permit reuse of covered Crown content under OGL v3.0 with attribution, excluding third-party material and without implying endorsement. Text only; no images. Robots checked at request time. https://www.gov.uk/help/terms-conditions"
+  }
+]

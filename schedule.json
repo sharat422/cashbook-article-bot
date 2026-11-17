@@ -1,0 +1,39 @@
+{
+  "timezone": "Asia/Kolkata",
+  "news_keywords": [
+    "credit period",
+    "delayed payment",
+    "digital payment",
+    "distributor",
+    "e-invoice",
+    "FMCG",
+    "GST",
+    "kirana",
+    "merchant",
+    "MSME",
+    "retail",
+    "small and medium",
+    "small enterprise",
+    "supply chain",
+    "trade margin",
+    "UPI",
+    "wholesale"
+  ],
+  "windows": {
+    "timezone_id": "Eastern Standard Time",
+    "tasks": [
+      {
+        "slot": "guide",
+        "name": "Cashbook Weekly Guide",
+        "day": "Tuesday",
+        "time": "09:00"
+      },
+      {
+        "slot": "explainer",
+        "name": "Cashbook Weekly Explainer",
+        "day": "Friday",
+        "time": "09:00"
+      }
+    ]
+  }
+}
